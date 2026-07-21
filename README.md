@@ -14,7 +14,7 @@ The project compares the performance of five machine learning algorithms on the 
 
 ## Repository Contents
 
-- `Yehudis_Schnaidman_Student_Dropout_ML.ipynb` – Jupyter Notebook containing all code used for data exploration, model training, evaluation, and visualizations.
+- `student_success_prediction.ipynb` – Jupyter Notebook containing all code used for data exploration, model training, evaluation, and visualizations.
 - `Yehudis_Schnaidman_Student_Dropout_ML_Final_Report.pdf` – Final project report summarizing the methodology, results, and conclusions.
 
 ## Dataset
